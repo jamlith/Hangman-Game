@@ -1,0 +1,40 @@
+/* l337 h4x0r style Copyright 2017 by 055m-s0zz */
+$tealheader: rgb(74, 170, 165);
+
+
+.tab-mod {
+    height: 100%;
+    margin: 10px auto 0px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: $tealheader;
+    color: #fff;
+}
+.hang-word {
+    margin: 10px auto 10px auto;
+    padding:15px;
+    background-color: #8c8c8c;
+    border-radius: 5px;
+}
+.hang-letter {
+    font-size: 2em;
+    padding: 5px;
+    margin: auto 1.5emlautp gp
+}
+#blanks-div {
+    border: black solid;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+#blanks-container {
+    display: inline-block;
+    margin: auto;
+
+}
+.letter-box {
+    font-size: 30px;
+    width: 1.5em;
+    padding: 5px;
+    display: inline;
+}
